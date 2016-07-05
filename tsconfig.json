@@ -19,5 +19,9 @@
   ],
   "atom": {
     "rewriteTsconfig": true
-  }
+  },
+  "files": [
+    "./dev/app.component.ts",
+    "./dev/boot.ts"
+  ]
 }
